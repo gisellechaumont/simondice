@@ -9,3 +9,5 @@ Es un memo test que nos ayuda a agilizar la memoria con distintos colores, sonid
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
 👩‍💻 DEMO: https://gisellechaumont.github.io/simondice/
+
+Finalizado 🔧
